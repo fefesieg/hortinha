@@ -9,6 +9,9 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+background-image: url(/public/👍.jpg);
+
+
 }
  
 /* Container principal */
@@ -102,5 +105,4 @@ button:active {
     font-size: 1.4rem;
   }
 }
- 
  
